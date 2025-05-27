@@ -1,5 +1,5 @@
-# Pharmacist AI Assistant
-The Pharmacist AI Assistant is an intelligent web-based tool designed to assist pharmacists and healthcare professionals in managing prescriptions efficiently. The application leverages OCR (Optical Character Recognition) to extract text from uploaded prescriptions, verifies medication names using RxNorm API, and allows users to create and manage orders seamlessly.
+# pharmagenie
+The pharmagenie is an intelligent web-based tool designed to assist pharmacists and healthcare professionals in managing prescriptions efficiently. The application leverages OCR (Optical Character Recognition) to extract text from uploaded prescriptions, verifies medication names using RxNorm API, and allows users to create and manage orders seamlessly.
 
 ## Features
 * Prescription OCR Processing: Extracts text from uploaded prescription images using Tesseract OCR.
@@ -9,7 +9,7 @@ The Pharmacist AI Assistant is an intelligent web-based tool designed to assist 
 * Secure and Scalable: Ensures privacy and data integrity with secure handling of patient information.
 
 ## Demo
-Watch the project in action: [Screen Recording](https://drive.google.com/file/d/1c74VzPkbdrUPye7JRUNNYkSEYuwjoeSI/view?usp=drive_link)
+Watch the project in action: [Screen Recording](https://youtu.be/UV0kfPtdEl8)
 
 ## Technologies Used
 * Programming Languages: Python, HTML, CSS, JavaScript
@@ -32,7 +32,7 @@ Requests<br>
 
 ## Installation & Setup
 Clone the Repository<br>
-git clone https://github.com/yourusername/pharmacist-ai-assistant.git<br>
+git clone 
 cd pharmacist-ai-assistant
 
 Create a Virtual Environment (Optional but Recommended)
@@ -57,5 +57,3 @@ Open your browser and go to: http://127.0.0.1:5000
 * Verify Drug Validity: Use the drug checker to confirm medicine authenticity.
 * Create and Manage Orders: Add medications to the order system and process them.
 
-## Contact
-For any queries, reach out at tanishaverma081@example.com or open an issue on GitHub.
